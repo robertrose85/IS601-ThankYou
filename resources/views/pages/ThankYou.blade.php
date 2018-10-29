@@ -2,9 +2,6 @@
 
 @section('content')
 
-    <h1>Thank you for your submission!</h1>
-    <p class="lead">
-
-    </p>
+    <h1>Thank you for your submission, {{$name}}!</h1>
 
 @endsection
