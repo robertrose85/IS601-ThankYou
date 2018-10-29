@@ -1,4 +1,9 @@
-<!--<div class="starter-template"> -->
+@extends('layouts.default')
+
+@section('content')
+
     <h1>Robert Rose - About Page</h1>
-    <p class="lead">Use this document as a way to quickly start any new project.<br> All you get is this text and a mostly barebones HTML document.</p>
-<!-- </div> -->
+    <p class="lead">Use this document as a way to quickly start any new project.<br> All you get is this text and a
+        mostly barebones HTML document.</p>
+
+@endsection

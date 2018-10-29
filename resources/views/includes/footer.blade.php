@@ -1,3 +1,3 @@
 <footer class="container">
-    <p>&copy; Company 2017-2018</p>
+    <p>Robert Rose - IS601 - Fall 2018</p>
 </footer>
