@@ -12,6 +12,10 @@
             <form action="/contact" method="post">
                 {{ csrf_field() }}
                 <div class="form-group">
+                    <label for="name">First Name</label>
+                    <input name="name" type="name" class="form-control" id="name" placeholder="First">
+                </div>
+                <div class="form-group">
                     <label for="email">Email address</label>
                     <input name="email" type="email" class="form-control" id="email" placeholder="name@example.com">
                 </div>
